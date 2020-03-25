@@ -13,7 +13,7 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-Raku provides a `now` term to get an `Instant` object of the current time. Oddly enough, an associated `today` term is absent. This module provides that. Should future versions of Raku provide that term out of the box, than using this module will become a no-op.
+Raku provides a `now` term to get an `Instant` object of the current time. Oddly enough, an associated `today` term is absent. This module provides that. Should future versions of Raku provide that term out of the box, then using this module will become a no-op.
 
 AUTHOR
 ======

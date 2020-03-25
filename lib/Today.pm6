@@ -23,7 +23,7 @@ Today - provide a 'today' term
 
 Raku provides a C<now> term to get an C<Instant> object of the current time.
 Oddly enough, an associated C<today> term is absent.  This module provides
-that.  Should future versions of Raku provide that term out of the box, than
+that.  Should future versions of Raku provide that term out of the box, then
 using this module will become a no-op.
 
 =head1 AUTHOR
