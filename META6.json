@@ -1,0 +1,22 @@
+{
+  "auth" : "cpan:ELIZABETH",
+  "authors" : [
+    "Elizabeth Mattijsen"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "provide a 'today' term",
+  "license" : "Artistic-2.0",
+  "name" : "Today",
+  "perl" : "6.c",
+  "provides" : {
+    "Today" : "lib/Today.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "https://github.com/lizmat/Today",
+  "tags" : [
+    "UTILS"
+  ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
