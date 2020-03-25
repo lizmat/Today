@@ -1,6 +1,6 @@
 use v6.c;
 
-unit class Today:ver<0.0.1>:auth<cpan:ELIZABETH>;
+unit class Today:ver<0.0.2>:auth<cpan:ELIZABETH>;
 
 # This module is intended to be part of the Rakudo core in the
 # foreseeable future.
