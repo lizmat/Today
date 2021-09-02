@@ -8,7 +8,7 @@ SYNOPSIS
 
     use Today;
 
-    say today;  # 2020-03-25
+    say today;  # 2021-08-26
 
 DESCRIPTION
 ===========
@@ -18,14 +18,14 @@ Raku provides a `now` term to get an `Instant` object of the current time. Oddly
 AUTHOR
 ======
 
-Elizabeth Mattijsen <liz@wenzperl.nl>
+Elizabeth Mattijsen <liz@raku.rocks>
 
 Source can be located at: https://github.com/lizmat/Today . Comments and Pull Requests are welcome.
 
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2020 Elizabeth Mattijsen
+Copyright 2020, 2021 Elizabeth Mattijsen
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 

@@ -1,22 +1,26 @@
 {
-  "auth" : "cpan:ELIZABETH",
-  "authors" : [
+  "auth": "zef:lizmat",
+  "authors": [
     "Elizabeth Mattijsen"
   ],
-  "build-depends" : [ ],
-  "depends" : [ ],
-  "description" : "provide a 'today' term",
-  "license" : "Artistic-2.0",
-  "name" : "Today",
-  "perl" : "6.c",
-  "provides" : {
-    "Today" : "lib/Today.pm6"
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "provide a 'today' term",
+  "license": "Artistic-2.0",
+  "name": "Today",
+  "perl": "6.c",
+  "provides": {
+    "Today": "lib/Today.rakumod"
   },
-  "resources" : [ ],
-  "source-url" : "https://github.com/lizmat/Today",
-  "tags" : [
+  "resources": [
+  ],
+  "source-url": "https://github.com/lizmat/Today",
+  "tags": [
     "UTILS"
   ],
-  "test-depends" : [ ],
-  "version" : "0.0.2"
+  "test-depends": [
+  ],
+  "version": "0.0.4"
 }
