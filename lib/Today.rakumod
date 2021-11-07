@@ -1,7 +1,3 @@
-use v6.c;
-
-unit class Today:ver<0.0.4>:auth<zef:lizmat>;
-
 # This module is intended to be part of the Rakudo core in the
 # foreseeable future.
 
