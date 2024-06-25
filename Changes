@@ -2,6 +2,12 @@ Revision history for Today
 
 {{$NEXT}}
 
+0.0.6  2024-06-25T14:10:07+02:00
+    - Modernize test file extension
+    - Modernize pod
+    - Add sponsor link and button
+    - Update copyright year
+
 0.0.5  2021-11-07T12:25:19+01:00
     - Remove the class statement, we don't need it anymore
 

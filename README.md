@@ -6,9 +6,11 @@ Today - provide a 'today' term
 SYNOPSIS
 ========
 
-    use Today;
+```raku
+use Today;
 
-    say today;  # 2021-08-26
+say today;  # 2024-06-25
+```
 
 DESCRIPTION
 ===========
@@ -21,6 +23,8 @@ AUTHOR
 Elizabeth Mattijsen <liz@raku.rocks>
 
 Source can be located at: https://github.com/lizmat/Today . Comments and Pull Requests are welcome.
+
+If you like this module, or what I’m doing more generally, committing to a [small sponsorship](https://github.com/sponsors/lizmat/) would mean a great deal to me!
 
 COPYRIGHT AND LICENSE
 =====================

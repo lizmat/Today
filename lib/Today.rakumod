@@ -11,9 +11,13 @@ Today - provide a 'today' term
 
 =head1 SYNOPSIS
 
-  use Today;
+=begin code :lang<raku>
 
-  say today;  # 2021-08-26
+use Today;
+
+say today;  # 2024-06-25
+
+=end code
 
 =head1 DESCRIPTION
 
@@ -28,6 +32,10 @@ Elizabeth Mattijsen <liz@raku.rocks>
 
 Source can be located at: https://github.com/lizmat/Today .
 Comments and Pull Requests are welcome.
+
+If you like this module, or what I’m doing more generally, committing to a
+L<small sponsorship|https://github.com/sponsors/lizmat/>  would mean a great
+deal to me!
 
 =head1 COPYRIGHT AND LICENSE
 
