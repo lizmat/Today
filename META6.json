@@ -18,9 +18,10 @@
   ],
   "source-url": "https://github.com/lizmat/Today.git",
   "tags": [
+    "DATE",
     "UTILS"
   ],
   "test-depends": [
   ],
-  "version": "0.0.6"
+  "version": "0.0.7"
 }
