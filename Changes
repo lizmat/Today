@@ -1,6 +1,8 @@
 Revision history for Today
 
 {{$NEXT}}
+
+0.0.8  2025-01-10T13:20:59+01:00
     - Reduce the bytecode size and speedup compilation
       significantly, thanks to Timo Paulssen's suggestion
 
