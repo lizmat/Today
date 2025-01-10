@@ -1,6 +1,8 @@
 Revision history for Today
 
 {{$NEXT}}
+    - Reduce the bytecode size and speedup compilation
+      significantly, thanks to Timo Paulssen's suggestion
 
 0.0.7  2025-01-09T00:31:23+01:00
     - Add CI badges
